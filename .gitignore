@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# editor / notebook folders
+.vscode/
+.ipynb_checkpoints/
+
+# local backup copies (the final model runs/flappybirdv3.pt is kept)
+*_backup*
